@@ -1,5 +1,5 @@
 # Deleting-Docker-Apps
-how to delete all files &amp; directories from our machine
+how to delete all files &amp; directories from our local machine 
 
 
 
