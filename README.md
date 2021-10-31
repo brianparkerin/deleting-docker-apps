@@ -56,7 +56,7 @@ como administrador sudo:  sudo rmdir rm -rf wordpress-docker -i
 
 
 ```
-
+```
 
 Deleting Volumes:
 
@@ -72,7 +72,5 @@ docker volume inspect [volume name o 3 dig id vol]
 docker rm -v [volume name 3 dig id vol]
 
 
-
 ```
-
 
